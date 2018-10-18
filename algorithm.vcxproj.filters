@@ -13,28 +13,37 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\DP">
+      <UniqueIdentifier>{7931c032-60f4-4965-857a-48abb97cb1de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Graph">
+      <UniqueIdentifier>{aa7b481f-d461-4796-a1f7-e874aa8bd520}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="9095.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1463.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2579.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1003.cpp">
+      <Filter>소스 파일\DP</Filter>
     </ClCompile>
     <ClCompile Include="1149.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1003.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2193.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\DP</Filter>
     </ClCompile>
     <ClCompile Include="11726.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="1463.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="2193.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="2579.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="9095.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="1912.cpp">
+      <Filter>소스 파일\DP</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
