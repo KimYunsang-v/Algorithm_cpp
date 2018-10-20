@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\Graph">
       <UniqueIdentifier>{aa7b481f-d461-4796-a1f7-e874aa8bd520}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\DFS_BFS">
+      <UniqueIdentifier>{6d0b2127-13ac-46cf-99f2-b967cf683bbc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1003.cpp">
@@ -44,6 +47,9 @@
     </ClCompile>
     <ClCompile Include="1912.cpp">
       <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="1260.cpp">
+      <Filter>소스 파일\DFS_BFS</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
